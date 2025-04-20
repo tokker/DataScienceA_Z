@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Homework", "Homework\Homework.dtproj", "{FE37EC0E-D1D9-EE57-3788-A1CCD1C26B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE37EC0E-D1D9-EE57-3788-A1CCD1C26B5B}.Development|Default.ActiveCfg = Development
+		{FE37EC0E-D1D9-EE57-3788-A1CCD1C26B5B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0917C44B-0067-491B-A1D7-E6DCC4F05B7F}
+	EndGlobalSection
+EndGlobal
